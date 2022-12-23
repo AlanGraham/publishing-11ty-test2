@@ -1,7 +1,11 @@
-# David Gourlay
+---
+layout: base.2.njk
+---
 
-[Home](../index.md) | [Labels](../labels.md) | [Artists](../artists.md)
+# David Gourlay
 
 | Act | Role |
 |---|---|
-| [Sunset Squad](sunset-squad.md) | Guitar |
+| [Sunset Squad](../sunset-squad) | Guitar |
+
+{.table}

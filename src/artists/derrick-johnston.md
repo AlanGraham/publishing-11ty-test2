@@ -1,9 +1,13 @@
-# Derrick Johnston
+---
+layout: base.2.njk
+---
 
-[Home](../index.md) | [Labels](../labels.md) | [Artists](../artists.md)
+# Derrick Johnston
 
 | Act | Role |
 |---|---|
-| [Joey Terrifying](joey-terrifying.md) | - |
-| [Tragical History Tour](tragical-history-tour.md) | - |
-| [Uniforms](uniforms.md) | Guitar, Vocals |
+| [Joey Terrifying](../joey-terrifying) | - |
+| [Tragical History Tour](../tragical-history-tour) | - |
+| [Uniforms](../uniforms) | Guitar, Vocals |
+
+{.table}

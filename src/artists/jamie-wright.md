@@ -1,7 +1,11 @@
-# Jamie Wright
+---
+layout: base.2.njk
+---
 
-[Home](../index.md) | [Labels](../labels.md) | [Artists](../artists.md)
+# Jamie Wright
 
 | Act | Role |
 |---|---|
-| [Uniforms](uniforms.md) | Drums |
+| [Uniforms](../uniforms) | Drums |
+
+{.table}

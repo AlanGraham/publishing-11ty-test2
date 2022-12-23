@@ -1,7 +1,11 @@
-# Chris Mylles
+---
+layout: base.2.njk
+---
 
-[Home](../index.md) | [Labels](../labels.md) | [Artists](../artists.md)
+# Chris Mylles
 
 | Act | Role |
 |---|---|
-| [Kaddish](kaddish.md) | Drums |
+| [Kaddish](../kaddish) | Drums |
+
+{.table}

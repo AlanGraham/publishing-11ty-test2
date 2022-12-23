@@ -1,7 +1,11 @@
-# David Macaffer
+---
+layout: base.2.njk
+---
 
-[Home](../index.md) | [Labels](../labels.md) | [Artists](../artists.md)
+# David Macaffer
 
 | Act | Role |
 |---|---|
-| [Bonehouse](bonehouse.md) | Vocals |
+| [Bonehouse](../bonehouse) | Vocals |
+
+{.table}

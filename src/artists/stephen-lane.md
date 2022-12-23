@@ -1,7 +1,11 @@
-# Stephen Lane
+---
+layout: base.2.njk
+---
 
-[Home](../index.md) | [Labels](../labels.md) | [Artists](../artists.md)
+# Stephen Lane
 
 | Act | Role |
 |---|---|
-| [Sunset Squad](sunset-squad.md) | - |
+| [Sunset Squad](../sunset-squad) | - |
+
+{.table}

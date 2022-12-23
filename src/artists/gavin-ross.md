@@ -1,7 +1,11 @@
-# Gavin Ross
+---
+layout: base.2.njk
+---
 
-[Home](../index.md) | [Labels](../labels.md) | [Artists](../artists.md)
+# Gavin Ross
 
 | Act | Role |
 |---|---|
-| [Sunset Squad](sunset-squad.md) | - |
+| [Sunset Squad](../sunset-squad) | - |
+
+{.table}

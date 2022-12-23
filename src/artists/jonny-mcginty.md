@@ -1,7 +1,11 @@
-# Jonny McGinty
+---
+layout: base.2.njk
+---
 
-[Home](../index.md) | [Labels](../labels.md) | [Artists](../artists.md)
+# Jonny McGinty
 
 | Act | Role |
 |---|---|
-| [Uniforms](uniforms.md) | Bass, Vocals |
+| [Uniforms](../uniforms) | Bass, Vocals |
+
+{.table}

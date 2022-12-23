@@ -1,7 +1,11 @@
-# Ross McLay
+---
+layout: base.2.njk
+---
 
-[Home](../index.md) | [Labels](../labels.md) | [Artists](../artists.md)
+# Ross McLay
 
 | Act | Role |
 |---|---|
-| [Carson Wells](carson-wells.md) | - |
+| [Carson Wells](../carson-wells) | - |
+
+{.table}

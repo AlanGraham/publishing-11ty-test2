@@ -1,7 +1,11 @@
-# Ade Pollock
+---
+layout: base.2.njk
+---
 
-[Home](../index.md) | [Labels](../labels.md) | [Artists](../artists.md)
+# Ade Pollock
 
 | Act | Role |
 |---|---|
-| [Uniforms](uniforms.md) | Bass |
+| [Uniforms](../uniforms) | Bass |
+
+{.table}

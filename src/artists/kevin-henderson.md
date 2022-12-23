@@ -1,7 +1,11 @@
-# Kevin Henderson
+---
+layout: base.2.njk
+---
 
-[Home](../index.md) | [Labels](../labels.md) | [Artists](../artists.md)
+# Kevin Henderson
 
 | Act | Role |
 |---|---|
-| [Sunset Squad](sunset-squad.md) | Drums |
+| [Sunset Squad](../sunset-squad) | Drums |
+
+{.table}

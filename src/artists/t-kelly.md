@@ -1,7 +1,11 @@
-# T. Kelly
+---
+layout: base.2.njk
+---
 
-[Home](../index.md) | [Labels](../labels.md) | [Artists](../artists.md)
+# T. Kelly
 
 | Act | Role |
 |---|---|
-| [Clocked Out](clocked-out.md) | Vocals |
+| [Clocked Out](../clocked-out) | Vocals |
+
+{.table}

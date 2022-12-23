@@ -1,7 +1,11 @@
-# John Cumiskey
+---
+layout: base.2.njk
+---
 
-[Home](../index.md) | [Labels](../labels.md) | [Artists](../artists.md)
+# John Cumiskey
 
 | Act | Role |
 |---|---|
-| [Kaddish](kaddish.md) | Bass |
+| [Kaddish](../kaddish) | Bass |
+
+{.table}

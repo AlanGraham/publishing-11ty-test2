@@ -1,7 +1,11 @@
-# Harrison White
+---
+layout: base.2.njk
+---
 
-[Home](../index.md) | [Labels](../labels.md) | [Artists](../artists.md)
+# Harrison White
 
 | Act | Role |
 |---|---|
-| [Wecamefromwolves](wecamefromwolves.md) | - |
+| [Wecamefromwolves](../wecamefromwolves) | - |
+
+{.table}

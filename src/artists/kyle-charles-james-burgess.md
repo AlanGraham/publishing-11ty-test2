@@ -1,7 +1,11 @@
-# Kyle Charles James Burgess
+---
+layout: base.2.njk
+---
 
-[Home](../index.md) | [Labels](../labels.md) | [Artists](../artists.md)
+# Kyle Charles James Burgess
 
 | Act | Role |
 |---|---|
-| [Wecamefromwolves](wecamefromwolves.md) | - |
+| [Wecamefromwolves](../wecamefromwolves) | - |
+
+{.table}

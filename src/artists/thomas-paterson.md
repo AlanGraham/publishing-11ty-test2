@@ -1,7 +1,11 @@
-# Thomas Paterson
+---
+layout: base.2.njk
+---
 
-[Home](../index.md) | [Labels](../labels.md) | [Artists](../artists.md)
+# Thomas Paterson
 
 | Act | Role |
 |---|---|
-| [Mesa Verde](mesa-verde.md) | Drums |
+| [Mesa Verde](../mesa-verde) | Drums |
+
+{.table}

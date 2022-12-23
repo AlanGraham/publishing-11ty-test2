@@ -1,7 +1,11 @@
-# Bobby Stickah
+---
+layout: base.2.njk
+---
 
-[Home](../index.md) | [Labels](../labels.md) | [Artists](../artists.md)
+# Bobby Stickah
 
 | Act | Role |
 |---|---|
-| [Maxwell's Dead](maxwells-dead.md) | - |
+| [Maxwell's Dead](../maxwells-dead) | - |
+
+{.table}

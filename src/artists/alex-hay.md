@@ -1,7 +1,11 @@
-# Alex Hay
+---
+layout: base.2.njk
+---
 
-[Home](../index.md) | [Labels](../labels.md) | [Artists](../artists.md)
+# Alex Hay
 
 | Act | Role |
 |---|---|
-| [The Murderburgers](the-murderburgers.md) | - |
+| [The Murderburgers](../the-murderburgers) | - |
+
+{.table}

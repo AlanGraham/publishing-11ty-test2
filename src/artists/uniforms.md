@@ -1,18 +1,24 @@
-# Uniforms
+---
+layout: base.2.njk
+---
 
-[Home](../index.md) | [Labels](../labels.md) | [Artists](../artists.md)
+# Uniforms
 
 [Discogs](https://www.discogs.com/artist/3695715-Uniforms-3) | [Bandcamp](http://uniforms.bandcamp.com/)
 
 | Member | Role |
 |---|---|
-| [Ade Pollock](ade-pollock.md) | Bass |
-| [Derrick Johnston](derrick-johnston.md) | Guitar, Vocals |
-| [Jamie Wright](jamie-wright.md) | Guitar |
-| [Jason Rees](jason-rees.md) | Drums |
-| [Jonny McGinty](jonny-mcginty.md) | Bass, Vocals |
-| [Luke McGinty](luke-mcginty.md) | Drums |
+| [Ade Pollock](../ade-pollock) | Bass |
+| [Derrick Johnston](../derrick-johnston) | Guitar, Vocals |
+| [Jamie Wright](../jamie-wright) | Guitar |
+| [Jason Rees](../jason-rees) | Drums |
+| [Jonny McGinty](../jonny-mcginty) | Bass, Vocals |
+| [Luke McGinty](../luke-mcginty) | Drums |
+
+{.table}
 
 | Release | Labels | Format | Date |
 |---|---|---|---|
-| [Demo](../releases/uniforms-demo.md) | [Make That A Take](../labels/make-that-a-take.md) | Demo | 2011-10-10 |
+| [Demo](../../releases/uniforms-demo) | [Make That A Take](../../labels/make-that-a-take) | Demo | 2011-10-10 |
+
+{.table}

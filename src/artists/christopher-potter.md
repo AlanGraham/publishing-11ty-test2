@@ -1,7 +1,11 @@
-# Christopher Potter
+---
+layout: base.2.njk
+---
 
-[Home](../index.md) | [Labels](../labels.md) | [Artists](../artists.md)
+# Christopher Potter
 
 | Act | Role |
 |---|---|
-| [Sunset Squad](sunset-squad.md) | Vocals |
+| [Sunset Squad](../sunset-squad) | Vocals |
+
+{.table}

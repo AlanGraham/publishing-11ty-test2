@@ -1,7 +1,11 @@
-# Rob Whytock
+---
+layout: base.2.njk
+---
 
-[Home](../index.md) | [Labels](../labels.md) | [Artists](../artists.md)
+# Rob Whytock
 
 | Act | Role |
 |---|---|
-| [Wecamefromwolves](wecamefromwolves.md) | - |
+| [Wecamefromwolves](../wecamefromwolves) | - |
+
+{.table}

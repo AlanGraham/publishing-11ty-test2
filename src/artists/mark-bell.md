@@ -1,7 +1,11 @@
-# Müg
+---
+layout: base.2.njk
+---
 
-[Home](../index.md) | [Labels](../labels.md) | [Artists](../artists.md)
+# Müg
 
 | Act | Role |
 |---|---|
-| [Müg](müg.md) | - |
+| [Müg](../müg) | - |
+
+{.table}

@@ -1,7 +1,11 @@
-# Captain Tom
+---
+layout: base.2.njk
+---
 
-[Home](../index.md) | [Labels](../labels.md) | [Artists](../artists.md)
+# Captain Tom
 
 | Act | Role |
 |---|---|
-| [The Murderburgers](the-murderburgers.md) | - |
+| [The Murderburgers](../the-murderburgers) | - |
+
+{.table}

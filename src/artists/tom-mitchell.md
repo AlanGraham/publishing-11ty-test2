@@ -1,7 +1,11 @@
-# Tom Mitchell
+---
+layout: base.2.njk
+---
 
-[Home](../index.md) | [Labels](../labels.md) | [Artists](../artists.md)
+# Tom Mitchell
 
 | Act | Role |
 |---|---|
-| [Sunset Squad](sunset-squad.md) | Bass |
+| [Sunset Squad](../sunset-squad) | Bass |
+
+{.table}

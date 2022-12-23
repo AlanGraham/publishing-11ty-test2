@@ -1,7 +1,11 @@
-# Owen McLaughlin
+---
+layout: base.2.njk
+---
 
-[Home](../index.md) | [Labels](../labels.md) | [Artists](../artists.md)
+# Owen McLaughlin
 
 | Act | Role |
 |---|---|
-| [Bonehouse](bonehouse.md) | Guitar, Vocals |
+| [Bonehouse](../bonehouse) | Guitar, Vocals |
+
+{.table}

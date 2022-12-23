@@ -1,7 +1,11 @@
-# Iain Carmichael
+---
+layout: base.2.njk
+---
 
-[Home](../index.md) | [Labels](../labels.md) | [Artists](../artists.md)
+# Iain Carmichael
 
 | Act | Role |
 |---|---|
-| [Bonehouse](bonehouse.md) | Drums |
+| [Bonehouse](../bonehouse) | Drums |
+
+{.table}

@@ -1,7 +1,11 @@
-# "Damo"
+---
+layout: base.2.njk
+---
 
-[Home](../index.md) | [Labels](../labels.md) | [Artists](../artists.md)
+# "Damo"
 
 | Act | Role |
 |---|---|
-| [Sunset Squad](sunset-squad.md) | - |
+| [Sunset Squad](../sunset-squad) | - |
+
+{.table}

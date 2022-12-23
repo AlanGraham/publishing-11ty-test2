@@ -1,7 +1,11 @@
-# Iain Dallas
+---
+layout: base.2.njk
+---
 
-[Home](../index.md) | [Labels](../labels.md) | [Artists](../artists.md)
+# Iain Dallas
 
 | Act | Role |
 |---|---|
-| [Carson Wells](carson-wells.md) | - |
+| [Carson Wells](../carson-wells) | - |
+
+{.table}

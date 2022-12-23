@@ -1,7 +1,11 @@
-# Stuart Roughburger
+---
+layout: base.2.njk
+---
 
-[Home](../index.md) | [Labels](../labels.md) | [Artists](../artists.md)
+# Stuart Roughburger
 
 | Act | Role |
 |---|---|
-| [The Murderburgers](the-murderburgers.md) | - |
+| [The Murderburgers](../the-murderburgers) | - |
+
+{.table}

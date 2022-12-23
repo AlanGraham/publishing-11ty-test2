@@ -1,7 +1,11 @@
-# Dom Smith
+---
+layout: base.2.njk
+---
 
-[Home](../index.md) | [Labels](../labels.md) | [Artists](../artists.md)
+# Dom Smith
 
 | Act | Role |
 |---|---|
-| [Kaddish](kaddish.md) | Guitar, Vocals |
+| [Kaddish](../kaddish) | Guitar, Vocals |
+
+{.table}

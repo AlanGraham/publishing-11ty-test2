@@ -1,7 +1,11 @@
-# Barry Kydd
+---
+layout: base.2.njk
+---
 
-[Home](../index.md) | [Labels](../labels.md) | [Artists](../artists.md)
+# Barry Kydd
 
 | Act | Role |
 |---|---|
-| [15 Minutes](15-minutes.md) | Lyrics, Vocals |
+| [15 Minutes](../15-minutes) | Lyrics, Vocals |
+
+{.table}

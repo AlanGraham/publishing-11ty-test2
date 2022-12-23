@@ -1,7 +1,11 @@
-# Mark
+---
+layout: base.2.njk
+---
 
-[Home](../index.md) | [Labels](../labels.md) | [Artists](../artists.md)
+# Mark
 
 | Act | Role |
 |---|---|
-| [Kaddish](kaddish.md) | Vocals |
+| [Kaddish](../kaddish) | Vocals |
+
+{.table}

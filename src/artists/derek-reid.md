@@ -1,7 +1,11 @@
-# Derek Reid
+---
+layout: base.2.njk
+---
 
-[Home](../index.md) | [Labels](../labels.md) | [Artists](../artists.md)
+# Derek Reid
 
 | Act | Role |
 |---|---|
-| [Mesa Verde](mesa-verde.md) | Drums |
+| [Mesa Verde](../mesa-verde) | Drums |
+
+{.table}

@@ -1,7 +1,11 @@
-# Huw Gurden
+---
+layout: base.2.njk
+---
 
-[Home](../index.md) | [Labels](../labels.md) | [Artists](../artists.md)
+# Huw Gurden
 
 | Act | Role |
 |---|---|
-| [Carson Wells](carson-wells.md) | - |
+| [Carson Wells](../carson-wells) | - |
+
+{.table}

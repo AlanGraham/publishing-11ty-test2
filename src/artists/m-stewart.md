@@ -1,7 +1,11 @@
-# M. Stewart
+---
+layout: base.2.njk
+---
 
-[Home](../index.md) | [Labels](../labels.md) | [Artists](../artists.md)
+# M. Stewart
 
 | Act | Role |
 |---|---|
-| [Clocked Out](clocked-out.md) | Vocals |
+| [Clocked Out](../clocked-out) | Vocals |
+
+{.table}

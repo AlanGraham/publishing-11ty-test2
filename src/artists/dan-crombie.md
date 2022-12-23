@@ -1,7 +1,11 @@
-# Dan Crombie
+---
+layout: base.2.njk
+---
 
-[Home](../index.md) | [Labels](../labels.md) | [Artists](../artists.md)
+# Dan Crombie
 
 | Act | Role |
 |---|---|
-| [You Dead!](you-dead.md) | - |
+| [You Dead!](../you-dead) | - |
+
+{.table}

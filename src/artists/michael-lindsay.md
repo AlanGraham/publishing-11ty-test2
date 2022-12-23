@@ -1,7 +1,11 @@
-# Michael Lindsay
+---
+layout: base.2.njk
+---
 
-[Home](../index.md) | [Labels](../labels.md) | [Artists](../artists.md)
+# Michael Lindsay
 
 | Act | Role |
 |---|---|
-| [15 Minutes](15-minutes.md) | Guitar, Vocals |
+| [15 Minutes](../15-minutes) | Guitar, Vocals |
+
+{.table}

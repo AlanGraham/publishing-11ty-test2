@@ -1,8 +1,12 @@
-# Sean Arnold
+---
+layout: base.2.njk
+---
 
-[Home](../index.md) | [Labels](../labels.md) | [Artists](../artists.md)
+# Sean Arnold
 
 | Act | Role |
 |---|---|
-| [Bonehouse](bonehouse.md) | Bass, Vocals |
-| [Sunset Squad](sunset-squad.md) | - |
+| [Bonehouse](../bonehouse) | Bass, Vocals |
+| [Sunset Squad](../sunset-squad) | - |
+
+{.table}

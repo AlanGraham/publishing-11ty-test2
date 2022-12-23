@@ -1,7 +1,11 @@
-# Ryan Page
+---
+layout: base.2.njk
+---
 
-[Home](../index.md) | [Labels](../labels.md) | [Artists](../artists.md)
+# Ryan Page
 
 | Act | Role |
 |---|---|
-| [Sunset Squad](sunset-squad.md) | Guitar, Vocals |
+| [Sunset Squad](../sunset-squad) | Guitar, Vocals |
+
+{.table}
