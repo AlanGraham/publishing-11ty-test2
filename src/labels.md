@@ -4,8 +4,6 @@ layout: base.njk
 
 # Labels
 
-[Home](index) | Labels | [Artists](artists)
-
 Info on labels will go here, initially starting with Make That A Take Records.
 
 | Label | Founded | Status |

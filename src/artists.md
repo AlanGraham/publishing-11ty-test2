@@ -4,8 +4,6 @@ layout: base.njk
 
 # Artists
 
-[Home](index) | [Labels](labels) | Artists
-
 Info on artists will go here, initially starting with those on Make That A Take Records.
 
 

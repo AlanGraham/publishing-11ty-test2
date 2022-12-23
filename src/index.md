@@ -4,8 +4,6 @@ layout: base.njk
 
 # DYAS
 
-Home | [Labels](labels) | [Artists](artists)
-
 Document Yer Ane Scene
 
 Beginning of a site to document the scene near me.
