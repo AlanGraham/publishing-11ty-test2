@@ -16,8 +16,6 @@ module.exports = eleventyConfig => {
     eleventyConfig.setLibrary('md', markdownLib);
     eleventyConfig.markdownTemplateEngine = 'njk';
 
-    app.use(express.static(path.join(__dirname, 'public')))
-
     return {
         pathPrefix: '/publishing-11ty-test2/',
         dir: {
